@@ -1,10 +1,20 @@
 ### Hi there 👋
 
+I am a creative person, very adaptable and looking for a position where I can improve my skills and indulge in my love for art. I hope to hone my techniques and share my passion with as many people as possible.
+
+🔭 I’m currently working on Increase my language skills and build my portfolio.
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| Html        |
+|     2| CSS   |
+|     3|  JavaScript             |
+|     3| React |   
 <!--
 **Deliaube/Deliaube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<I am a creative person, very adaptable and looking for a position where I can improve my skills and indulge in my love for art. I hope to hone my techniques and share my passion with as many people as possible. />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
